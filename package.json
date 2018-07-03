@@ -1,0 +1,24 @@
+{
+  "name": "yue-grpc-node-ws-handler",
+  "version": "0.0.1",
+  "description": "grpc node ws handler for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smartyue/yue-grpc-node-ws-handler.git"
+  },
+  "author": "Yue.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smartyue/yue-grpc-node-ws-handler/issues"
+  },
+  "homepage": "https://github.com/Smartyue/yue-grpc-node-ws-handler#readme",
+  "dependencies": {
+    "google-protobuf": "^3.6.0",
+    "grpc": "^1.12.4",
+    "grpc-ws-service-pb": "0.0.1"
+  }
+}
