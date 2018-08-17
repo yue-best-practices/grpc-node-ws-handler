@@ -1,6 +1,6 @@
 {
   "name": "grpc-node-ws-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "grpc node ws handler for node.js",
   "main": "index.js",
   "scripts": {
